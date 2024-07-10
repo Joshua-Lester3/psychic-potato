@@ -1,0 +1,4 @@
+- a global superpower that you work for ("employer")
+- tells you to go collect a kid with a desirable ability and you to kill people that get in the way (parents)
+- killing parents is an inevitable task
+- choose kids freedom

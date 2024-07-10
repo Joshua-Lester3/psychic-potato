@@ -5,12 +5,15 @@
 vibe:
 
 - dark, mysterious
-- cave-like
+- cave-like or inside
 - story
   - can make decisions
 - black and white?
 - orthogonical\* (gungeon-like viewpoint)
 - good-bad spectrum
+- not rogue-like, but exploratory (hollow knight)
+
+- pixelated
 
 story:
 
@@ -39,4 +42,7 @@ game mechanics:
   - grapple
     - grapple enemy
 - there's areas of the map you can't access at first, but must come back to in order to progress
--
+
+
+not much magic, in the background
+magic artifacts exist
